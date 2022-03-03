@@ -12,8 +12,8 @@ Mit diesem Webapp soll man fast so gut wie gar nicht mit HTML, oder CSS zutun ha
 
 wie werden die einzelne Seiten auf der webseite dargestellt? dazu ein Bild:
 
-##### ![site_public.png](assets/site_public.png?fileId=21205#mimetype=image%2Fpng&hasPreview=true)
-Einfach zu bedienen
+![site_public.png](assets/site_public.png?fileId=21205#mimetype=image%2Fpng&hasPreview=true)
+##### Einfach zu bedienen
 
 Als Administrator hat volle rechte auf das Inhalt der Webseite. Um diese Inhalte zu verwalten, bietet dieses CMS eine einfach Bedienung. dazu ein paar Bilder:
 
